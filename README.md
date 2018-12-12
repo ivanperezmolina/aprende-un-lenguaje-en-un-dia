@@ -55,7 +55,7 @@ En Wikipedia hay una definición más detallada y un montón de ejemplos en los 
 
 Vamos a proceder a instalar el interprete de Prolog (ya que este lenguaje es interpretado). Para ello nos vamos a la [página de Prolog] (http://www.swi-prolog.org/).
 
-<img src=''
+<img src='captura1.png'>
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
 
