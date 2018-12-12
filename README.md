@@ -77,9 +77,9 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
 El código que debemos usar es el siguiente:
 
-
 ```mensaje :- nl,
-          write('Ejemplo: "El hola mundo de Prolog" cargado. '),```
+          write('Ejemplo: "El hola mundo de Prolog" cargado. '),
+```
 
 ### 2. Pirámide
 
