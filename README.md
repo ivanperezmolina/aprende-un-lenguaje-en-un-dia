@@ -1,4 +1,4 @@
-# Aprende un lenguaje de programación en un día (ejercicio voluntario para subir nota).
+# Aprende Prolog en un día .
 
 ## Introducción
 
@@ -123,6 +123,8 @@ writeN(N,C):-N > 0, write(C),M is N -1, writeN(M,C).
 Tenemos que tener en cuenta que 
 
 Y así es como se vería la sentencia en la consola:
+
+<img src='captura6.png'>
 
 
 ### 3. Arrays y números aleatorios
