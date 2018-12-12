@@ -74,11 +74,6 @@ Al abrirlo; podemos ver la interfaz del IDE. Así se ve:
 
 
 
-
-
-
-Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
-
 ## Poniendo en práctica el lenguaje
 
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
@@ -89,8 +84,7 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
 El código que debemos usar es el siguiente:
 
-```mensaje :- nl,
-          write('Ejemplo: "El hola mundo de Prolog" cargado. '),
+```
 ```
 
 ### 2. Pirámide
