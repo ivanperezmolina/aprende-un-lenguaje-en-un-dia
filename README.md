@@ -28,9 +28,9 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.
 
-* Alan Brito
-* Elba Lazo
-* Esteban Quito
+* Iván Pérez Molina
+* José Robles Bastidas
+* Rubén Pacheco Matas
 
 ## Lenguaje de programación
 
@@ -38,15 +38,24 @@ El profesor llevará una cajita llena de papelitos con los nombres de distintos 
 
 Escribe el lenguaje de programación elegido por el grupo.
 
-* Mi lenguaje
+* PROLOG 
 
 Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
 ## Información sobre el lenguaje
 
-Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
+Es un lenguaje de programación lógico e interpretado, bastante conocido en el medio de investigación en Inteligencia Artificial.
+
+Se creó a principios de los 70 en Francia. Creado por unos estudiantes los cuales tenían como objetivo la clasificación algorítmica de lenguajes naturales.
+
+En Wikipedia hay una definición más detallada y un montón de ejemplos en los cuales vemos que realmente es un lenguaje lógico e interpretado. Dejo por [aquí](https://es.wikipedia.org/wiki/Prolog) un enlace 
+
 
 ## Herramientas de desarrollo
+
+Vamos a proceder a instalar el interprete de Prolog (ya que este lenguaje es interpretado). Para ello nos vamos a la [página de Prolog] (http://www.swi-prolog.org/).
+
+<img src=''
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
 
