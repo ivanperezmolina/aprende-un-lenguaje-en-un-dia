@@ -102,7 +102,8 @@ Y así es como se vería la sentencia escrita en la consola:
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
-```triangulo(N):- triangulo(N,1).
+```
+triangulo(N):- triangulo(N,1).
 triangulo(_).
 
 triangulo(Espacios,Asteriscos):- Espacios > 0,
