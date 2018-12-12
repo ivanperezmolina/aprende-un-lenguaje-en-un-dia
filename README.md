@@ -57,7 +57,11 @@ Vamos a proceder a instalar el interprete de Prolog (ya que este lenguaje es int
 
 <img src='captura1.png'>
 
-Ahora simplemente nos descargamos una versión más o menos estable y procedemos a la instación
+Ahora simplemente nos descargamos una versión estable y procedemos a la instación
+
+La versión que hemos escogido es: SWI-Prolog 7.6.4 para Windows de 64 bits. Aquí dejamos un enlace para acceder a la [página](http://www.swi-prolog.org/download/stable)
+
+<img src='captura2.png'>
 
 
 
