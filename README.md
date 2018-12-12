@@ -102,6 +102,20 @@ Y así es como se vería la sentencia escrita en la consola:
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
+```triangulo(N):- triangulo(N,1).
+triangulo(_).
+
+triangulo(Espacios,Asteriscos):- Espacios > 0,
+writeN(Espacios,' '),
+writeN(Asteriscos,'* '),
+nl,
+Espacios1 is Espacios - 1,
+Asteriscos1 is Asteriscos + 1,
+triangulo(Espacios1, Asteriscos1).
+writeN(0,_).
+writeN(N,C):-N > 0, write(C),M is N -1, writeN(M,C).
+```
+
 ### 3. Arrays y números aleatorios
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
