@@ -75,6 +75,10 @@ Utilizaremos también Visual Studio Code con un plugin que nos permita utilizar 
 
 <img src='visual.png'>
 
+Para insertar el plugin buscamos en Visual Studio Code el plugin que se ve en la foto y lo instalamos:
+
+<img src='captura5.png'>
+
 
 ## Poniendo en práctica el lenguaje
 
