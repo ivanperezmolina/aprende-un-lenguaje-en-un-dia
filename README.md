@@ -86,7 +86,8 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
 El código que debemos usar es el siguiente:
 
-```?- write('hola mundo desde Prolog!').
+```mensaje :- nl,
+          write('Ejemplo: "El hola mundo de Prolog" cargado. '),
 ```
 
 Y así es como se vería la sentencia escrita en la consola:
