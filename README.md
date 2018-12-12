@@ -63,6 +63,10 @@ La versión que hemos escogido es: SWI-Prolog 7.6.4 para Windows de 64 bits. Aqu
 
 <img src='captura2.png'>
 
+Una vez termina la instalación; se nos crea un icono en el escritorio. ¡Vamos a abrirlo!
+
+
+
 
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
