@@ -76,8 +76,6 @@ Utilizaremos también Visual Studio Code con un plugin que nos permita utilizar 
 <img src='visual.png'>
 
 
-
-
 ## Poniendo en práctica el lenguaje
 
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
@@ -91,7 +89,9 @@ El código que debemos usar es el siguiente:
 ```write('hola mundo desde Prolog!').
 ```
 
-Al ejecutarlo en la 
+Y así es como se vería la sentencia escrita en la consola:
+
+<img src='captura4.png'>
 
 ### 2. Pirámide
 
