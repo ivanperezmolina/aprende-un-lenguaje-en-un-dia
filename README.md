@@ -67,9 +67,13 @@ Una vez termina la instalación; se nos crea un icono en el escritorio. ¡Vamos 
 
 <img src='prologicono.png'>
 
-Al abrirlo; podemos ver la interfaz del IDE. Así se ve:
+Al abrirlo; podemos ver la interfaz de la consola. Así se ve:
 
 <img src='captura3.png'>
+
+Utilizaremos también Visual Studio Code con un plugin que nos permita utilizar Prolog
+
+
 
 
 
@@ -84,8 +88,10 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
 El código que debemos usar es el siguiente:
 
+```write('hola mundo desde Prolog!').
 ```
-```
+
+Al ejecutarlo en la 
 
 ### 2. Pirámide
 
