@@ -93,7 +93,8 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
 El código que debemos usar es el siguiente:
 
-```mensaje :- nl,
+``` prolog
+mensaje :- nl,
           write('hola mundo desde Prolog'),
 ```
 
