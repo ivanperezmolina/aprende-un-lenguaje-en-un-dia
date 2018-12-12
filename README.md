@@ -65,6 +65,13 @@ La versión que hemos escogido es: SWI-Prolog 7.6.4 para Windows de 64 bits. Aqu
 
 Una vez termina la instalación; se nos crea un icono en el escritorio. ¡Vamos a abrirlo!
 
+<img src='prologicono.jpg'>
+
+Al abrirlo; podemos ver la interfaz del IDE. Así se ve:
+
+
+
+
 
 
 
