@@ -120,7 +120,8 @@ writeN(0,_).
 writeN(N,C):-N > 0, write(C),M is N -1, writeN(M,C).
 ```
 
-Tenemos que tener en cuenta que 
+Como podemos observar el código empieza con *triangulo(N)* que es el nombre de el archivo y *(N)* son los argumentos que pedimos al usuario. 
+En realidad, esto es como declarar una función a la cual puedes llamar, en este caso sería como el *main* en Java, pero funcionaría igual si declaramos otras funciones y las llamamos dentro de nuestro *"main"*.
 
 Y así es como se vería la sentencia en la consola:
 
