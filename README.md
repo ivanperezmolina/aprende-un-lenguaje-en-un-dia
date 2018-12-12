@@ -73,7 +73,7 @@ Al abrirlo; podemos ver la interfaz de la consola. Así se ve:
 
 Utilizaremos también Visual Studio Code con un plugin que nos permita utilizar Prolog
 
-
+<img src='visual.png'>
 
 
 
