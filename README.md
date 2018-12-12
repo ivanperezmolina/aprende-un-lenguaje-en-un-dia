@@ -48,6 +48,9 @@ Es un lenguaje de programación lógico e interpretado, bastante conocido en el 
 
 Se creó a principios de los 70 en Francia. Creado por unos estudiantes los cuales tenían como objetivo la clasificación algorítmica de lenguajes naturales.
 
+Las ventajas que le encontramos a Prolog es que no hay que preocuparse por como se resuelve un problema; solo debemos definir el problema para que Prolog encuentre la solución. El reto consiste en saber definir el problema correctamente para que Prolog pueda entenderlo y nos pueda dar una solución acorde a lo que buscamos, de lo contrario, no tendremos una solución válida. 
+
+
 En Wikipedia hay una definición más detallada y un montón de ejemplos en los cuales vemos que realmente es un lenguaje lógico e interpretado. Dejo por [aquí](https://es.wikipedia.org/wiki/Prolog) un enlace 
 
 
@@ -116,6 +119,11 @@ triangulo(Espacios1, Asteriscos1).
 writeN(0,_).
 writeN(N,C):-N > 0, write(C),M is N -1, writeN(M,C).
 ```
+
+Tenemos que tener en cuenta que 
+
+Y así es como se vería la sentencia en la consola:
+
 
 ### 3. Arrays y números aleatorios
 
