@@ -135,6 +135,11 @@ Realiza un programa que rellene un array (o una estructura similar) con 20 núme
 
 *Para la realización de este ejercicio vamos a utilizar otro IDE, ya que hemos tenidos algunos problemas con el IDE mostrado anteriormente*
 
+```prolog
+lista is [].
+crearLista(cantidad, max, min, lista) :- random(min, max, X) , X=..[_,lista].
+```
+
 ## Presentación de resultados
 
 Cada equipo explicará al resto de la clase lo aprendido durante la realización del ejercicio. Todos los miembros de cada equipo deben participar en la explicación. Se puede utilizar como material de base para la presentación el repositorio de GitHub.
