@@ -136,8 +136,8 @@ Realiza un programa que rellene un array (o una estructura similar) con 20 núme
 *Para la realización de este ejercicio vamos a utilizar otro IDE, ya que hemos tenidos algunos problemas con el IDE mostrado anteriormente*
 
 ```prolog
-lista is [].
-crearLista(cantidad, max, min, lista) :- random(min, max, X) , X=..[_,lista].
+loading...
+We are having some problems, wait for the next tuesday...
 ```
 
 ## Presentación de resultados
