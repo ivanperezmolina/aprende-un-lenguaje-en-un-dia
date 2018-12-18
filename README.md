@@ -135,10 +135,32 @@ Realiza un programa que rellene un array (o una estructura similar) con 20 núme
 
 *Para la realización de este ejercicio vamos a utilizar otro IDE, ya que hemos tenidos algunos problemas con el IDE mostrado anteriormente*
 
+Empezamos creando una estructura donde podamos almacenar datos; en este caso vamos a utilizar una matriz. El código se ve así:
+
 ```prolog
-loading...
-We are having some problems, wait for the next tuesday...
+muestraMatriz(_, 0, _):-
+    !.
+
+muestraMatriz(A, B, C):-
+    write(A),
+    write(" "),
+    M is A mod C,
+    Siguiente is random(100),
+    MAX is B - 1,
+    muestraMatriz(Siguiente, MAX, C).
+
+
+matriz(N):-
+    matriz(N,N).
+
+matriz(M,N):-
+    MAX is M * N,
+    muestraMatriz(1, MAX, N).
 ```
+
+Y así es como se ve si creamos una matriz 1x20(huecos) y le metemos números aleatorios del 0 al 100.
+
+
 
 ## Presentación de resultados
 
