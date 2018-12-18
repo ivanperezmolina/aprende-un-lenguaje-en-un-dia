@@ -184,11 +184,12 @@ Por ejemplo, si metemos 1 nos devuelve *false*
 
 Crearemos una lista para meter los primos y otra para meter los nos primos.
 
-<>
+<img src="primos4.png">
 
-Ahora unimos esas dos listas (o matrices) y nos quedaría así.
+Ahora unimos esas dos listas  y nos quedaría así.
 
 <img src="hoy3.png">
+
 
 ## Presentación de resultados
 
