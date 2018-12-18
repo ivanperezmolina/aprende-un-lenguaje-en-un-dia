@@ -162,7 +162,7 @@ Y así es como se ve si creamos una matriz 1x20(huecos) y le metemos números al
 
 <img src='hoy1.png'>
 
-Ahora utilizamos este programa para saber si un numero es primo o no. Nos devuelve *true* si es primo y *false* si no es primo
+Ahora utilizamos este programa para saber si un numero es primo o no. Nos devuelve *true* si es primo y *false* si no es primo.
 
 ```prolog
 primeNumber(A) :-
@@ -177,6 +177,11 @@ prime_prime(A, B) :-
     ;   succ(B, C),        
         prime_prime(A, C).
 ```
+
+Por ejemplo, si metemos 1 nos devuelve *false*
+
+<img src="hoy2.png">
+
 
 ## Presentación de resultados
 
