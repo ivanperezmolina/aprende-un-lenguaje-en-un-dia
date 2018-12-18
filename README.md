@@ -160,7 +160,23 @@ matriz(M,N):-
 
 Y así es como se ve si creamos una matriz 1x20(huecos) y le metemos números aleatorios del 0 al 100.
 
+<img src='hoy1.png'>
 
+Ahora utilizamos este programa para saber si un numero es primo o no. Nos devuelve *true* si es primo y *false* si no es primo
+
+```prolog
+primeNumber(A) :-
+    A > 1,                 
+    prime_prime(A, 2).     
+
+prime_prime(A, B) :-       
+    B >= A                 
+    ->  true              
+    ;   0 is A mod B       
+    ->  false             
+    ;   succ(B, C),        
+        prime_prime(A, C).
+```
 
 ## Presentación de resultados
 
